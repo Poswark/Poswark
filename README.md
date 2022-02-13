@@ -1,10 +1,8 @@
-- 👋 Hola, Soy Giovanny Orjuela @Poswark
+- 🎓 Hola, Soy Giovanny Orjuela @Poswark
 - 👀 Me gusta la naturaleza y El señor de los anillos ...
 - 💞️ Me gusta mucho los proyectos Open Source
-- 📫 How to reach me ...
 
-Mi Linkedin es <pre> https://www.linkedin.com/in/giovannyorjuel2/ </pre>
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
