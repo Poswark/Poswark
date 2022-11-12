@@ -1,8 +1,12 @@
-- 🎓 Hello, i'm Giovanny Orjuela @Poswark
-- 👀 I like nature and Lord of the Rings ...
-- 💞️ passionate about projects Open Source
+# [Hola Soy Poswark]
+<samp>
+    Soy ingeniero en Sistemas  🔥 Sysadmin|SRE|DevOps|Chaos Engineering
+    <br>
+    AWS Community Builder Program Container ⚡
+     <br>
 
-
+</samp>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,3 +18,7 @@
 
 
 ![Poswark GitHub stats](https://github-readme-stats.vercel.app/api?username=poswark&show_icons=true&theme=vue)
+<br>
+
+[![Comprar](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]([https://www.buymeacoffee.com/poswark])
+
