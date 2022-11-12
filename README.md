@@ -1,8 +1,8 @@
 # [Hola Soy Poswark]
 <samp>
-    Soy ingeniero en Sistemas  🔥 Sysadmin|SRE|DevOps|Chaos Engineering
+    Soy ingeniero en Sistemas  🔥 Sysadmin|SRE|DevOps|Chaos Engineering 🔥
     <br>
-    AWS Community Builder Program Container ⚡
+    Me gusta el mundo de k8s y la administración de servidores
      <br>
 
 </samp>
