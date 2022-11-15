@@ -20,5 +20,5 @@
 ![Poswark GitHub stats](https://github-readme-stats.vercel.app/api?username=poswark&show_icons=true&theme=vue)
 <br>
 
-[![Comprar](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]([https://www.buymeacoffee.com/poswark])
 
+   [![Comprar](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/poswark)
