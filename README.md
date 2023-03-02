@@ -15,6 +15,8 @@ Puedes encontrarme en:
 <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gio" height="30" width="40" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=poswark)
+
 #  Estadísticas de mi cuenta de GitHub 📊
 
 ![Poswark GitHub stats](https://github-readme-stats.vercel.app/api?username=poswark&show_icons=true&theme=vue)
