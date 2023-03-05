@@ -21,7 +21,10 @@ Puedes encontrarme en:
 
 ![Poswark GitHub stats](https://github-readme-stats.vercel.app/api?username=poswark&show_icons=true&theme=vue)
 <br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poswark&theme=github)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=poswark)](https://github.com/ryo-ma/github-profile-trophy)
+<hr>
 
 #  Apóyame ☕
 Si quieres apoyar mi trabajo, puedes invitarme un café en [Buy Me A Coffee].
