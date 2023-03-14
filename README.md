@@ -26,12 +26,3 @@ Puedes encontrarme en:
 [![trophy](https://github-profile-trophy.vercel.app/?username=poswark)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
-#  Apóyame ☕
-Si quieres apoyar mi trabajo, puedes invitarme un café en [Buy Me A Coffee].
-
-Espero que esto te ayude a mejorar tu archivo README. ¡Buena suerte!
-
-[![Comprar](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/poswark)
-
-
- [Buy Me A Coffee]: <https://www.buymeacoffee.com/poswark>
