@@ -18,7 +18,7 @@ Puedes encontrarme en:
 ![](https://komarev.com/ghpvc/?username=poswark)
 
 # donar
-https://ko-fi.com/poswark
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K5VN9Z6)
 
 #  Estadísticas de mi cuenta de GitHub 📊
 
