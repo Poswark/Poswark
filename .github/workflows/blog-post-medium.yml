@@ -1,17 +1,23 @@
 name: Latest blog posts in Medium
-on: 
-    workflow_dispatch:
-    schedule:
-        - cron: '0 * * * *'
-    push:
-        branches:
-            - main
-jobs: 
-    update-readme-with-blog: 
-        name: Update README with latest blog posts in medium
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v3
-              with: 
-                max_post_count: "5"
-                feed_list: "https://medium.com/feed/@giovannyorjuel2"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *" # Corre cada hora
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts in Medium
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Pull latest Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@giovannyorjuel2"
+          max_post_count: 5
