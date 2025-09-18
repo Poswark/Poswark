@@ -17,6 +17,15 @@ Puedes encontrarme en:
 
 ![](https://komarev.com/ghpvc/?username=poswark)
 
+## Latest blogs:
+<!-- BLOG-POST-LIST:START -->
+- [A Complete Guide for Kubernetes Client-Go SharedInformerFactory](https://levelup.gitconnected.com/a-complete-guide-for-kubernetes-client-go-sharedinformerfactory-db1e935ae745?source=rss-a96bc5a23088------2)
+- [A Deep Dive Into Kubernetes Client-Go Informers](https://levelup.gitconnected.com/a-deep-dive-into-kubernetes-client-go-informers-012bb5362a38?source=rss-a96bc5a23088------2)
+- [Getting Started With Kubernetes Client-Go](https://levelup.gitconnected.com/getting-started-with-kubernetes-client-go-9dacda6fffef?source=rss-a96bc5a23088------2)
+- [AWS IPAM: A Complete Guide to IP Address Management with AWS Organizations and RAM](https://aws.plainenglish.io/aws-ipam-a-complete-guide-to-ip-address-management-with-aws-organizations-and-ram-7fc82d460b38?source=rss-a96bc5a23088------2)
+- [Analyzing AWS Logs using AWS Athena &lpar;SQL&rpar;](https://towardsaws.com/analyzing-aws-logs-using-aws-athena-sql-4188861cb774?source=rss-a96bc5a23088------2)
+<!-- BLOG-POST-LIST:END -->
+
 # donar
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K5VN9Z6)
 
@@ -29,3 +38,19 @@ Puedes encontrarme en:
 [![trophy](https://github-profile-trophy.vercel.app/?username=poswark)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
+## Familiarity with technologies:
+
+
+[![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)]()
+[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
+[![actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)]()
+[![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)]()
+[![argocd](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)]()
+[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
+[![ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)]()
+[![helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)]()
+[![jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)]()
+[![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)]()
+[![prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)]()
+[![grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)]()
+[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()

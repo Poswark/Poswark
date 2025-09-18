@@ -1,0 +1,14 @@
+name: Latest blog posts in Medium
+on: 
+    workflow_dispatch:
+    schedule:
+        - cron: '0 * * * *'
+jobs: 
+    update-readme-with-blog: 
+        name: Update README with latest blog posts in medium
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v3
+              with: 
+                max_post_count: "5"
+                feed_list: "https://medium.com/feed/@giovannyorjuel2"
