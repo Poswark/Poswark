@@ -19,11 +19,11 @@ Puedes encontrarme en:
 
 ## Latest blogs:
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide for Kubernetes Client-Go SharedInformerFactory](https://levelup.gitconnected.com/a-complete-guide-for-kubernetes-client-go-sharedinformerfactory-db1e935ae745?source=rss-a96bc5a23088------2)
-- [A Deep Dive Into Kubernetes Client-Go Informers](https://levelup.gitconnected.com/a-deep-dive-into-kubernetes-client-go-informers-012bb5362a38?source=rss-a96bc5a23088------2)
-- [Getting Started With Kubernetes Client-Go](https://levelup.gitconnected.com/getting-started-with-kubernetes-client-go-9dacda6fffef?source=rss-a96bc5a23088------2)
-- [AWS IPAM: A Complete Guide to IP Address Management with AWS Organizations and RAM](https://aws.plainenglish.io/aws-ipam-a-complete-guide-to-ip-address-management-with-aws-organizations-and-ram-7fc82d460b38?source=rss-a96bc5a23088------2)
-- [Analyzing AWS Logs using AWS Athena &lpar;SQL&rpar;](https://towardsaws.com/analyzing-aws-logs-using-aws-athena-sql-4188861cb774?source=rss-a96bc5a23088------2)
+- [Google Cloud Run, GitHub Actions y Mermaid son claves en tu estrategia DevOps](https://medium.com/@giovannyorjuel2/por-qu%C3%A9-google-cloud-run-github-actions-y-mermaid-son-claves-en-tu-estrategia-devops-a5c123f38915?source=rss-d70a155c192f------2)
+- [Unleashing Ansible’s Power Inside Docker Containers](https://medium.com/@giovannyorjuel2/unleashing-ansibles-power-inside-docker-containers-31b8adf6fba5?source=rss-d70a155c192f------2)
+- [Stop Secret Leaks Before They Happen: Mastering Gitleaks for DevSecOps Pipelines](https://medium.com/@giovannyorjuel2/stop-secret-leaks-before-they-happen-mastering-gitleaks-for-devsecops-pipelines-633d0f975162?source=rss-d70a155c192f------2)
+- [Testeando Frontend con k6](https://medium.com/@giovannyorjuel2/testeando-frontend-con-k6-8677ef57402e?source=rss-d70a155c192f------2)
+- [Security Analysis with KICS](https://medium.com/@giovannyorjuel2/security-analysis-with-kics-f12da06e6804?source=rss-d70a155c192f------2)
 <!-- BLOG-POST-LIST:END -->
 
 # donar
