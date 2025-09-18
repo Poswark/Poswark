@@ -10,14 +10,13 @@
 Puedes encontrarme en:
 
 
-<a href="https://www.linkedin.com/in/giovannyorjuel2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Giovanny" height="30" width="40" /></a>
-<a href="https://www.instagram.com/giovannyorjuel2/?hl=es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Gio7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gio" height="30" width="40" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannyorjuel2/)[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@giovannyorjuel2)[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannyorjuel2@gmail.com)
 </p>
 
 ![](https://komarev.com/ghpvc/?username=poswark)
 
-## Latest blogs:
+## Ultimos artículos en Medium:
+
 <!-- BLOG-POST-LIST:START -->
 - [Google Cloud Run, GitHub Actions y Mermaid son claves en tu estrategia DevOps](https://medium.com/@giovannyorjuel2/por-qu%C3%A9-google-cloud-run-github-actions-y-mermaid-son-claves-en-tu-estrategia-devops-a5c123f38915?source=rss-d70a155c192f------2)
 - [Unleashing Ansible’s Power Inside Docker Containers](https://medium.com/@giovannyorjuel2/unleashing-ansibles-power-inside-docker-containers-31b8adf6fba5?source=rss-d70a155c192f------2)
@@ -26,16 +25,28 @@ Puedes encontrarme en:
 - [Security Analysis with KICS](https://medium.com/@giovannyorjuel2/security-analysis-with-kics-f12da06e6804?source=rss-d70a155c192f------2)
 <!-- BLOG-POST-LIST:END -->
 
-# donar
+# Dona
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K5VN9Z6)
 
-#  Estadísticas de mi cuenta de GitHub 📊
 
-![Poswark GitHub stats](https://github-readme-stats.vercel.app/api?username=poswark&show_icons=true&theme=vue)
-<br>
+## 📊 Estadísticas de mi cuenta de GitHub
+
+<div align="center">
+
+### 🔥 Actividad en GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poswark&show_icons=true&theme=vue&hide_border=true&count_private=true)
+
+### 📂 Lenguajes Más Usados  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poswark&layout=compact&theme=vue&hide_border=true)
+
+### 🏆 Trofeos  
+[![trophy](https://github-profile-trophy.vercel.app/?username=poswark&theme=algolia&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📜 Resumen de Perfil  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poswark&theme=github)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=poswark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
 <hr>
 
 ## Familiarity with technologies:
