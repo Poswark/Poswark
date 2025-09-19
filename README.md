@@ -18,11 +18,11 @@ Puedes encontrarme en:
 ## Ultimos artículos en Medium:
 
 <!-- BLOG-POST-LIST:START -->
+- [Guía Completa de Kubernetes NetworkPolicies: Protege tu Cluster Como un Experto](https://medium.com/@giovannyorjuel2/gu%C3%ADa-completa-de-kubernetes-networkpolicies-protege-tu-cluster-como-un-experto-0eecf608498f?source=rss-d70a155c192f------2)
 - [Google Cloud Run, GitHub Actions y Mermaid son claves en tu estrategia DevOps](https://medium.com/@giovannyorjuel2/por-qu%C3%A9-google-cloud-run-github-actions-y-mermaid-son-claves-en-tu-estrategia-devops-a5c123f38915?source=rss-d70a155c192f------2)
 - [Unleashing Ansible’s Power Inside Docker Containers](https://medium.com/@giovannyorjuel2/unleashing-ansibles-power-inside-docker-containers-31b8adf6fba5?source=rss-d70a155c192f------2)
 - [Stop Secret Leaks Before They Happen: Mastering Gitleaks for DevSecOps Pipelines](https://medium.com/@giovannyorjuel2/stop-secret-leaks-before-they-happen-mastering-gitleaks-for-devsecops-pipelines-633d0f975162?source=rss-d70a155c192f------2)
 - [Testeando Frontend con k6](https://medium.com/@giovannyorjuel2/testeando-frontend-con-k6-8677ef57402e?source=rss-d70a155c192f------2)
-- [Security Analysis with KICS](https://medium.com/@giovannyorjuel2/security-analysis-with-kics-f12da06e6804?source=rss-d70a155c192f------2)
 <!-- BLOG-POST-LIST:END -->
 
 # Dona
