@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Poswark**
 
-[![Medium Workflow Status](https://github.com/Poswark/Poswark/actions/workflows/medium-posts.yml/badge.svg)](https://github.com/Poswark/Poswark/actions/workflows/blog-post-medium.yml)
+[![Medium Workflow Status](https://github.com/Poswark/Poswark/actions/workflows/blog-post-medium.yml/badge.svg)](https://github.com/Poswark/Poswark/actions/workflows/blog-post-medium.yml)
 <!-- ↑ Muestra el estado del workflow que actualiza tus artículos de Medium -->
 
 <samp>
