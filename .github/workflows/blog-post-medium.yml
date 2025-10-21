@@ -3,7 +3,7 @@ name: Latest blog posts in Medium
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *" # Corre cada hora
+    - cron: "10 6 * * *" 
   push:
     branches:
       - main
