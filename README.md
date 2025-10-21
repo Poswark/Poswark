@@ -1,19 +1,22 @@
-# [Hola Soy Poswark]
-<samp>
-    Soy ingeniero en Sistemas y me apasiona el mundo de la administración de servidores y Kubernetes. También tengo experiencia en Sysadmin, SRE, DevOps y Chaos Engineering.
-     <br>
+# 👋 ¡Hola! Soy **Poswark**
 
+[![Medium Workflow Status](https://github.com/Poswark/Poswark/actions/workflows/medium-posts.yml/badge.svg)](https://github.com/Poswark/Poswark/actions/workflows/medium-posts.yml)
+<!-- ↑ Muestra el estado del workflow que actualiza tus artículos de Medium -->
+
+<samp>
+Soy Ingeniero en Sistemas apasionado por la administración de servidores, Kubernetes, el ecosistema DevOps y SRE .  
+Cuento con experiencia en **Sysadmin**, **SRE**, **DevOps** y **Chaos Engineering**.
 </samp>
-<br>
 
 # Conéctate conmigo 🤝
 Puedes encontrarme en:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannyorjuel2/)[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@giovannyorjuel2)[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannyorjuel2@gmail.com)
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannyorjuel2/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@giovannyorjuel2)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannyorjuel2@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=poswark)
+![](https://komarev.com/ghpvc/?username=poswark&color=blueviolet&style=for-the-badge)
 
 ## Ultimos artículos en Medium:
 
